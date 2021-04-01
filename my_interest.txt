@@ -1,1 +1,1 @@
-hobby : singing
+hobby : singing,tv, dancing
